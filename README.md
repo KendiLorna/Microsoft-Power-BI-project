@@ -1,4 +1,4 @@
-## **MAJI NDOGO COMMUNICATING FINDINGS**
+## **COMMUNICATING FINDINGS**
 ## **INTRODUCTION**
 This is a project done at ALX Africa as part of my learning.
 Maji Ndogo is a fictional African country facing a water crisis due to persistent corrupt regimes. The country has a new president keen on reversing past governments' damage and restoring Maji Ndogo to its former glory. On the assumption of office, the president ordered a survey of the water sources to assign resources and prioritize areas that were inadequately served.
