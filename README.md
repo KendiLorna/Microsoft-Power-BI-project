@@ -38,7 +38,7 @@ There are 8 tables in the workbook.
 - Data cleaning and visualization - Microsoft Power BI
 
 ## INSIGHTS
-
+[Power BI Interactive dashboard on Maji Ndogo](https://youtu.be/wadujn5HCMo)
 1. Only 34% of the Maji Ndogo population have access to basic water services. The water sources are classified according to the United Nations requirements. A water source is classified as basic if it is improved(safely managed and free from contamination) and collection time does not exceed 30 minutes for a round trip.
 2.64% of the water sources in Maji Ndogo need improvement and will impact 18 million people when completed.
 3. It will cost the government 147 million USD to complete the repairs.
