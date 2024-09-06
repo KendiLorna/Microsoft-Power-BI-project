@@ -1,5 +1,6 @@
 ## **MAJI NDOGO COMMUNICATING FINDINGS**
 ## **INTRODUCTION**
+This is a project done at ALX Africa as part of my learning.
 Maji Ndogo is an AI-generated African country facing a water crisis due to persistent corrupt regimes. The country has a new president keen on reversing past governments' damage and restoring Maji Ndogo to its former glory. On the assumption of office, the president ordered a survey of the water sources to assign resources and prioritize areas that were inadequately served.
 Maji Ndogo has a population of 28 million people living in the five provinces of Maji Ndogo namely Sokoto, Amanzi, Akatsi, Hawassa, and Kilimani, which have a total of 31 urban and rural towns. There are five water sources in the country: wells, rivers, taps in homes, shared taps, and broken taps in homes.
 
